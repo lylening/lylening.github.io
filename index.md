@@ -12,46 +12,16 @@
   </tr>
 </table>
 
-# 个人简介
-2016年博士毕业于哈尔滨工业大学信息与通信工程专业，2014.9至2015.9作为国家公派博士生访问英属哥伦比亚大学Prof. Victor C.M. Leung。从事物联网节点轨迹数据处理和无线传输优化等领域的科研与教学工作多年。2016.8-2018.8任华为技术有限公司无线网络解决方案算法工程师，研发的多项具有“技术断裂点”的5G NB-IoT算法商用落地。2018.9加入深圳技术大学任助理教授，物联网工程系副主任。从事研究工作至今，累计发表SCI/EI论文20余篇，申请和授权知识产权30余项。近年来，指导学生在国家级、省级和校级物联网学科竞赛中多次获奖，曾获深圳技术大学教师晶体奖、教学单项奖等荣誉。
-### <a href="/index-en.html">English</a>
+## 个人简介
+<p>2016年博士毕业于哈尔滨工业大学信息与通信工程专业，2014.9至2015.9作为国家公派博士生访问英属哥伦比亚大学Prof. Victor C.M. Leung。从事物联网节点轨迹数据处理和无线传输优化等领域的科研与教学工作多年。2016.8-2018.8任华为技术有限公司无线网络解决方案算法工程师，研发的多项具有“技术断裂点”的5G NB-IoT算法商用落地。2018.9加入深圳技术大学任助理教授，物联网工程系副主任。从事研究工作至今，累计发表SCI/EI论文20余篇，申请和授权知识产权30余项。近年来，指导学生在国家级、省级和校级物联网学科竞赛中多次获奖，曾获深圳技术大学教师晶体奖、教学单项奖等荣誉。</p>
+<a href="/index-en.html">English</a>
 
-## Welcome to GitHub Pages
+## 科研项目
+- 超密网络下多类型用户移动行为建模方法研究，广东省普通高校青年创新人才项目，5万元，2019.6-2021.5，已结题
+- 基于时空轨迹特征提取与可视化的5G NB-IoT网关数传方法研究，深圳技术大学校企合作研发项目，100万元，2021.6-2023.5，在研
+- 面向5G超高速与大连接场景的边缘网关研制，深圳技术大学自制科学仪器设备项目，80万元，2021.3-2023.2，在研
 
-You can use the [editor on GitHub](https://github.com/lylening/lylening.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lylening/lylening.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 教研项目
+- 5G NB-IoT网络实训化教学研究，教育部产学合作协同育人项目，5万元，2021.9-2022.8，在研
+- 无线传感网络实训化教学研究，深圳技术大学教学改革研究项目，5万元，2019.1-2020.12，结题优秀
+- 5G物联网通信与行业应用校企联合实验室，深圳技术大学校企合作人才培养项目（中国移动深圳分公司），93.6万元，2021.1-2023.12，在研
