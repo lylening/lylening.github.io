@@ -31,42 +31,42 @@
 
 ## 主要成果
 ### 论文
-- Feature extraction of trajectories for mobility modeling in 5G NB-IoT networks. 2021.8, Wireless Networks. 
-- Trajectory mining-based city-level mobility model for 5G NB-IoT Networks. 2021.5, Wireless Communications and Mobile Computing. 
-- Deep grid scheduler for 5G NB-IoT uplink transmission， 2021.8， Security and Communication Networks. 
-- Preferred Route Indoor Mobility Model for Heterogeneous Networks”, IEEE Communications Letters, 2014, 18(5): 821-824. 
-- Fuzzy layered physical cell identities assignment in heterogeneous and small cell networks. Electronics Letters, 2016, 52(10): 879–881. 
-- Tracking areas planning based on community detection in heterogeneous and small cell networks. Mobile Networks & Applications, 2016, 1-10.
+- Feature extraction of trajectories for mobility modeling in 5G NB-IoT networks, Wireless Networks, 2021.8
+- Trajectory mining-based city-level mobility model for 5G NB-IoT Networks, Wireless Communications and Mobile Computing, 2021.5
+- Deep grid scheduler for 5G NB-IoT uplink transmission, Security and Communication Networks, 2021.8
+- Fuzzy layered physical cell identities assignment in heterogeneous and small cell networks. Electronics Letters, 2016, 52(10): 879–881
+- Tracking areas planning based on community detection in heterogeneous and small cell networks. Mobile Networks & Applications, 2016, 1-10
+- Preferred Route Indoor Mobility Model for Heterogeneous Networks”, IEEE Communications Letters, 2014, 18(5): 821-824
 
 ### 知识产权
-- DATA TRANSMISSION METHOD AND APPARATUS, 2021.9(授权日期), 欧洲专利, EP3706480.
-- 车流量特征提取方法及系统，2021-08-12（授权日期），国家知识产权局，ZL202010805829.4.
-- 车辆漫游区域预测方法及系统，2021-08-17（授权日期），国家知识产权局，ZL202010806311.2.
--	人体风险姿态识别方法及系统，PCT/CN2020/133151.
--	一种室内运动安全监测及人员流控管理装置，2020.12.01（授权日期），国家知识产权局，ZL202021008499.8.
--	一种轨迹大数据特征提取装置，2021.02.19（授权日期），国家知识产权局，ZL202021008483.7.
--	一种校园安全监测与云端预警装置，2020.12.04（授权日期），国家知识产权局，ZL202021145223.4.
-- 位置数据采集与传输装置，2021.06.04（授权日期），国家知识产权局，ZL202021759718.6.
--	5G图传设备外壳，2021.04.27（授权日期），国家知识产权局，ZL202030710134.9.
+- DATA TRANSMISSION METHOD AND APPARATUS, 2021.9(授权日期), 欧洲专利, EP3706480
+- 车流量特征提取方法及系统，2021-08-12（授权日期），国家知识产权局，ZL202010805829.4
+- 车辆漫游区域预测方法及系统，2021-08-17（授权日期），国家知识产权局，ZL202010806311.2
+- 人体风险姿态识别方法及系统，PCT/CN2020/133151
+- 一种室内运动安全监测及人员流控管理装置，2020.12.01（授权日期），国家知识产权局，ZL202021008499.8
+- 一种轨迹大数据特征提取装置，2021.02.19（授权日期），国家知识产权局，ZL202021008483.7
+- 一种校园安全监测与云端预警装置，2020.12.04（授权日期），国家知识产权局，ZL202021145223.4
+- 位置数据采集与传输装置，2021.06.04（授权日期），国家知识产权局，ZL202021759718.6
+- 5G图传设备外壳，2021.04.27（授权日期），国家知识产权局，ZL202030710134.9
 
 ### 著作
-- 5G物联网端管云实战，人民邮电出版社, 编审中.
--	BDI-IoT物联网可视化平台(前端)，2020.10，国家版权局，2020SR518861.
--	BDI-IoT物联网可视化平台(后端)，2020.10，国家版权局，2020SR518925.
-- 物联网移动应用平台V1.0，2021.6，国家版权局，2021SR0889310.
--	安防巡检嵌入式系统V1.0，2021.6，国家版权局，2021SR0889309.
+- 5G物联网端管云实战，人民邮电出版社, 编审中
+- BDI-IoT物联网可视化平台(前端)，2020.10，国家版权局，2020SR518861
+- BDI-IoT物联网可视化平台(后端)，2020.10，国家版权局，2020SR518925
+- 物联网移动应用平台V1.0，2021.6，国家版权局，2021SR0889310
+- 安防巡检嵌入式系统V1.0，2021.6，国家版权局，2021SR0889309
 
 ## 主要获奖
 ### 个人获奖
 - 深圳技术大学2020年度 教师晶体奖
--	深圳技术大学2019年度 教学单项奖
+- 深圳技术大学2019年度 教学单项奖
 	
 ### 指导学生获奖
-- 基于NB-IoT的远程电梯控制系统，全国大学生物联网设计竞赛，全国一等奖，2020.8；
-- 人-物协同一体化管理系统，全国大学生物联网设计竞赛，华东赛区一等奖，2020.8；
-- 面向泛在场景下的随身物品防丢系统，第十六届“挑战杯”广东大学生课外学术科技作品竞赛，省级二等奖，2021.7；
-- 基于云端可视化的5G智能巡逻车系统，全国大学生物联网设计竞赛，华东赛区二等奖，2021.8；
-- 悍匠战队，全国大学生机器人大赛ROBOMASTER，广东站3V3和步兵对抗赛二等奖，2021.4；
+- 基于NB-IoT的远程电梯控制系统，全国大学生物联网设计竞赛，全国一等奖，2020.8
+- 人-物协同一体化管理系统，全国大学生物联网设计竞赛，华东赛区一等奖，2020.8
+- 面向泛在场景下的随身物品防丢系统，第十六届“挑战杯”广东大学生课外学术科技作品竞赛，省级二等奖，2021.7
+- 基于云端可视化的5G智能巡逻车系统，全国大学生物联网设计竞赛，华东赛区二等奖，2021.8
+- 悍匠战队，全国大学生机器人大赛ROBOMASTER，广东站3V3和步兵对抗赛二等奖，2021.4
 
 ## 课程
 ### 本科生课程
