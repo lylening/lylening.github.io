@@ -87,6 +87,6 @@
 ### 本科生
 - 洪启俊，2018级，腾讯offer
 - 余聪莹，2018级，腾讯offer
-- <a href="https://www.lebronchao.com/">巢炜文</a>，2018级，字节跳动offer
+- <a href="https://www.lebronchao.com/" target="_blank">巢炜文</a>，2018级，字节跳动offer
 - 敬浩先，2019级，腾讯实习
 - 待更新
