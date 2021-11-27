@@ -89,4 +89,6 @@
 - 余聪莹，2018级，腾讯offer
 - <a href="https://www.lebronchao.com/" target="_blank">巢炜文</a>，2018级，字节跳动offer
 - 敬浩先，2019级，腾讯实习
+- 林昕泽，2019级
+- 黄韫杏，2019级
 - 待更新
