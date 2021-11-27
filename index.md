@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>宁磊</h1>
       <p><b>深圳技术大学&nbsp;大数据与互联网学院</b>&nbsp;&nbsp;<b>助理教授&nbsp;物联网工程系副主任</b></p>
-      <p><b>邮箱：ninglei@sztu.edu.cn&nbsp;lylening@outlook.com</b></p>
+      <p><b>邮箱：ninglei@sztu.edu.cn&nbsp;/&nbsp;lylening@outlook.com</b></p>
       <p><b>地址：广东省深圳市坪山区兰田路3002号</b></p>
     </td>
     <td width="25%">
@@ -29,4 +29,24 @@
 - 无线传感网络实训化教学研究，深圳技术大学教学改革研究项目，5万元，2019.1-2020.12，主持，结题优秀
 
 ## 主要论文
--
+- Feature extraction of trajectories for mobility modeling in 5G NB-IoT networks. 2021.8, Wireless Networks. 
+- Trajectory mining-based city-level mobility model for 5G NB-IoT Networks. 2021.5, Wireless Communications and Mobile Computing. 
+- Deep grid scheduler for 5G NB-IoT uplink transmission， 2021.8， Security and Communication Networks. 
+- Preferred Route Indoor Mobility Model for Heterogeneous Networks”, IEEE Communications Letters, 2014, 18(5): 821-824. 
+- Fuzzy layered physical cell identities assignment in heterogeneous and small cell networks. Electronics Letters, 2016, 52(10): 879–881. 
+- Tracking areas planning based on community detection in heterogeneous and small cell networks. Mobile Networks & Applications, 2016, 1-10.
+
+## 主要知识产权
+- 发明专利，第三发明人，DATA TRANSMISSION METHOD AND APPARATUS, 2021.9(授权日期), 欧洲专利, EP3706480.
+- 发明专利，第一发明人，车流量特征提取方法及系统，2021-08-12（授权日期），国家知识产权局，ZL202010805829.4.
+- 发明专利，第一发明人，车辆漫游区域预测方法及系统，2021-08-17（授权日期），国家知识产权局，ZL202010806311.2.
+-	发明专利，第一发明人，人体风险姿态识别方法及系统，PCT/CN2020/133151.
+-	实用新型专利，第一发明人，一种室内运动安全监测及人员流控管理装置，2020.12.01（授权日期），国家知识产权局，ZL202021008499.8.
+-	实用新型专利，第一发明人，一种轨迹大数据特征提取装置，2021.02.19（授权日期），国家知识产权局，ZL202021008483.7.
+-	实用新型专利，第一发明人，一种校园安全监测与云端预警装置，2020.12.04（授权日期），国家知识产权局，ZL202021145223.4.
+- 实用新型专利，第一发明人，位置数据采集与传输装置，2021.06.04（授权日期），国家知识产权局，ZL202021759718.6.
+-	外观设计专利，第一发明人，5G图传设备外壳，2021.04.27（授权日期），国家知识产权局，ZL202030710134.9.
+-	计算机软件著作权，BDI-IoT物联网可视化平台(前端)，2020.10，国家版权局，2020SR518861.
+-	计算机软件著作权，BDI-IoT物联网可视化平台(后端)，2020.10，国家版权局，2020SR518925.
+- 计算机软件著作权，物联网移动应用平台V1.0，2021.6，国家版权局，2021SR0889310.
+-	计算机软件著作权，安防巡检嵌入式系统V1.0，2021.6，国家版权局，2021SR0889309.
