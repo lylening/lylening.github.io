@@ -3,18 +3,18 @@
   <tr>
     <td width="75%">
       <h1>宁磊</h1>
-      <p><b>助理教授</b></p><p><b>深圳技术大学</b></p>
-      <p><b>邮箱：lylening@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>深圳技术大学&nbsp;大数据与互联网学院</b>&nbsp;&nbsp;<b>助理教授&nbsp;物联网工程系副主任</b></p>
+      <p><b>邮箱：ninglei@sztu.edu.cn&nbsp;lylening@outlook.com</b></p>
+      <p><b>地址：广东省深圳市坪山区兰田路3002号</b></p>
     </td>
     <td width="25%">
       <img src="/lylening.jpg" width="100%">
     </td>
   </tr>
 </table>
+### <a href="/index-en.html">English</a>
 
 
-<a href="/index-en.html">英文版</a>
 
 ## Welcome to GitHub Pages
 
