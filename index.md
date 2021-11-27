@@ -1,3 +1,22 @@
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>宁磊</h1>
+      <p><b>助理教授</b></p>
+      <p><b>深圳技术大学</b></p>
+      <p><b>邮箱：lylening@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="/lylening.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+<a href="/index-en.html">英文版</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lylening/lylening.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -5,6 +24,8 @@ You can use the [editor on GitHub](https://github.com/lylening/lylening.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
