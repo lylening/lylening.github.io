@@ -42,25 +42,25 @@ He has guided more than 100 students in innovation activities, and won 4 nationa
 
 ### Selected Recent Publications
 #### Journal Papers
-- Zhang, R., Ning, L.*, Li, M., Wang, C., Li, W., & Wang, Y. (2021). Feature extraction of trajectories for mobility modeling in 5G NB-IoT networks. Wireless Networks. (Co-Author, JCR Q2)
+- Zhang, R., <b>Ning, L.*</b>, Li, M., Wang, C., Li, W., & Wang, Y. (2021). Feature extraction of trajectories for mobility modeling in 5G NB-IoT networks. Wireless Networks. (Co-Author, JCR Q2)
 
-- Zhang, R., Zhong, H., Zheng, T., & Ning, L.* (2021). Trajectory Mining-Based City-Level Mobility Model for 5G NB-IoT Networks. Wireless. Communications. Mobile. Computing. (Co-Author, JCR Q3)
+- Zhang, R., Zhong, H., Zheng, T., & <b>Ning, L.*</b> (2021). Trajectory Mining-Based City-Level Mobility Model for 5G NB-IoT Networks. Wireless. Communications. Mobile. Computing. (Co-Author, JCR Q3)
 
-- Zhong, H., Sun, R., Mei, F., Chen, Y., Jin, F., & Ning, L.* (2021). Deep Grid Scheduler for 5G NB-IoT Uplink Transmission. Security and Communication Networks. (Co-Author, JCR Q3)
+- Zhong, H., Sun, R., Mei, F., Chen, Y., Jin, F., & <b>Ning, L.*</b> (2021). Deep Grid Scheduler for 5G NB-IoT Uplink Transmission. Security and Communication Networks. (Co-Author, JCR Q3)
 
-- Zheng, T., Ning, L.*, Ye, Q., & Jin, F. (2021). An XGB-Based Reliable Transmission Method in the mMTC Scenarios. Security and Communication Networks. (Co-Author, JCR Q3)
+- Zheng, T., <b>Ning, L.*</b>, Ye, Q., & Jin, F. (2021). An XGB-Based Reliable Transmission Method in the mMTC Scenarios. Security and Communication Networks. (Co-Author, JCR Q3)
 
-- Ning, L., Wang, Z., Li, D., & Guo, Q. (2017). Tracking Areas Planning Based on Community Detection in Heterogeneous and Small Cell Networks. Mobile Networks and Applications, 22, 529-538. (JCR Q1)
+- <b>Ning, L.</b>, Wang, Z., Li, D., & Guo, Q. (2017). Tracking Areas Planning Based on Community Detection in Heterogeneous and Small Cell Networks. Mobile Networks and Applications, 22, 529-538. (JCR Q1)
 
-- Ning, L., Wang, Z., & Guo, Q. (2014). Preferred Route Indoor Mobility Model for Heterogeneous Networks. IEEE Communications Letters, 18, 821-824. (JCR Q2)
+- <b>Ning, L.</b>, Wang, Z., & Guo, Q. (2014). Preferred Route Indoor Mobility Model for Heterogeneous Networks. IEEE Communications Letters, 18, 821-824. (JCR Q2)
 
-- Ning, L., Wang, Z., Guo, Q., & Zhang, H. (2016). Fuzzy Layered Physical Cell Identities Assignment in Heterogeneous and Small Cell Networks. Electronics Letters, 52, 879-881. (JCR Q3)
+- <b>Ning, L.</b>, Wang, Z., Guo, Q., & Zhang, H. (2016). Fuzzy Layered Physical Cell Identities Assignment in Heterogeneous and Small Cell Networks. Electronics Letters, 52, 879-881. (JCR Q3)
 
 Conference Papers
-- Tang, C., Zhu, C., Wu H., Ning, L, & Rodrigues, J. (2022). Toward Failure-Aware Energy-Efficient Service Provisioning in Vehicular Fog Computing. 2022 IEEE Global Communications Conference (GLOBECOM), 2022, pp. 01-06.
+- Tang, C., Zhu, C., Wu H., <b>Ning, L</b>, & Rodrigues, J. (2022). Toward Failure-Aware Energy-Efficient Service Provisioning in Vehicular Fog Computing. 2022 IEEE Global Communications Conference (GLOBECOM), 2022, pp. 01-06.
 
 #### Book Titles
-- Ning, L, Pan, J. (Ed.): Practice of 5G Internet of Things: from the End to Cloud, People’s Posts and Telecommunication Press, in press (ISBN: 978-7-115-58840-1)
+- <b>Ning, L</b>, Pan, J. (Ed.): Practice of 5G Internet of Things: from the End to Cloud, People's Posts and Telecommunication Press, in press (ISBN: 978-7-115-58840-1)
 
 ### Selected Recent Intellectual Property
 - Patent, First inventor, Traffic flow feature extraction method and system, 2021.08.12(Grant Date), China National Intellectual Property Administration, ZL202010805829.4
@@ -85,12 +85,9 @@ Conference Papers
 - Patent, Fourth inventor, POWER ADJUSTMENT METHOD AND RELATED DEVICE, 2022.2(Grant Date), China National Intellectual Property Administration, ZL201880092564.9.
 
 ### Courses Taught
-- Internet of Things Communication Technology
-- Introduction to the Internet of Things
-- Professional Experiment and Design
-- Computer Network
-- Fundamentals of Programming - C Program
-- hesis and Dissertation Writing
+- IB00057, Internet of Things Communication Technology, Undergraduate
+- IB00036, Professional Experiment and Design, Undergraduate
+- CS5547, EI5939, Applied Internet of Things Technology, Postgraduate
 
 ### Competitions Instructed Awards
 - A Remote Elevator System Based on NB-IoT, National Undergraduate IoT Design Contest, National First Prize, 2020.8
