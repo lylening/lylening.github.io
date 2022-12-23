@@ -2,9 +2,15 @@
   <tr>
     <td width="75%">
       <h1>Lei NING</h1>
-      <p><b>Shenzhen Technology University&nbsp;College of Big Data and Internet</b>&nbsp;&nbsp;<b>Associate Professor&nbsp;Master Supervisor</b></p>
-      <p><b>Email: ninglei@sztu.edu.cn&nbsp;/&nbsp;lylening@outlook.com</b></p>
-      <p><b>No.3002, Lantian Road, Pingshan District, Shenzhen City, Guangdong Province, P.R. China</b></p>
+      <p>
+      <b>Associate Professor, Master Supervisor</b><br>
+      <b>College of Big Data and Internet</b><br>  
+      <b>Shenzhen Technology University</b>
+      </p>
+      <p>
+      <b>Email: ninglei@sztu.edu.cn&nbsp;/&nbsp;lylening@outlook.com</b><br>
+      <b>Address: No.3002, Lantian Road, Pingshan District, Shenzhen City, Guangdong Province, P.R. China</b>
+      </p>
     </td>
     <td width="25%">
       <img src="/lylening.jpg" width="100%">
