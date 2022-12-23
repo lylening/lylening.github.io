@@ -91,19 +91,13 @@ Conference Papers
 - CS5547, EI5939, Applied Internet of Things Technology, Postgraduate
 
 ### Competitions Instructed Awards
-- A Remote Elevator System Based on NB-IoT, National Undergraduate IoT Design Contest, National First Prize, 2020.8
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, National Second Prize of Individual Events, 2022.8
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, National Third Prize of Dual Meet, 2022.8
-- A collaboration-based management system for personal effects, National Undergraduate IoT Design Contest, First Prize in East China Division, 2020.8
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, First Prize of the Southern Zone Individual Events, 2022.8
-- Anti-lost system for personal belongings in ubiquitous scenes, The 16th "Challenge Cup" Guangdong Undergraduate extracurricular academic scientific and technological works competition, Provincial Second Prize, 2021.7
 - Design of 5G intelligent epidemic prevention patrol system, National Undergraduate IoT Design Contest, Second Prize in East China Division, 2022.8
-- 5G intelligent patrol system based on the cloud visualization, National Undergraduate IoT Design Contest, Second Prize in East China Division, 2021.8
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, Second Prize of the Southern Zone Dual Meet, 2022.8
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, Second Prize of the University League Guangdong Station 3V3 Confrontation Competition, 2021.4
-- HANJIANG, the National Undergraduate Robot Competition RoboMaster, Second Prize of the University League Guangdong Station Standard Confrontation Competition, 2021.4
 - Design of the evaluation of physical strength system based on 5G and machine vision, Electronic Design Competition for College Students in Guangdong Province, Third Prize in Guangdong Province, 2022.8
 - Design of 5G NB-IoT embedded gateway, Excellent Graduation Thesis of Shenzhen Technology University, 2022.5
+- 5G intelligent patrol system based on the cloud visualization, National Undergraduate IoT Design Contest, Second Prize in East China Division, 2021.8
+- Anti-lost system for personal belongings in ubiquitous scenes, The 16th "Challenge Cup" Guangdong Undergraduate extracurricular academic scientific and technological works competition, Provincial Second Prize, 2021.7
+- A collaboration-based management system for personal effects, National Undergraduate IoT Design Contest, First Prize in East China Division, 2020.8
+- A Remote Elevator System Based on NB-IoT, National Undergraduate IoT Design Contest, National First Prize, 2020.8
 
 ### Personal Awards
 - Excellent Undergraduate Class Teacher, Shenzhen Technology University, 2022
