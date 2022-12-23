@@ -25,13 +25,13 @@
 He has guided more than 100 students in innovation activities, and won 4 national awards, 9 provincial awards, and 1 school level excellent graduation thesis as the first or main instructor. He has won such honors as National Excellent Tutor in the National Undergraduate IoT Design Contest, and First Teacher Crystal Award in SZTU.</p>
 
 ### Recent Fundings
-- Research on data transmission method of 5G NB-IoT gateway based on spatial-temporal trajectory feature extraction and visualization, RMB 1,000,000(RMB 500,000 from SZTU), School-Enterprise Cooperation Project, 2021.6-2023.5
+- Research on data transmission method of 5G NB-IoT gateway based on spatial-temporal trajectory feature extraction and visualization, RMB 1,000,000, School-Enterprise Cooperation Project, 2021.6-2023.5
 - Design of the intelligent sensing system for the wind power transportation, RMB 200,000, Enterprise Cooperation Project, 2022.7-2023.1
 - Design of the petri dish management system based on NFC, RMB 70,000, Enterprise Cooperation Project, 2022.8-2022.10
-- Research on resource management method of ultra-low power NB-IoT based on the trajectory prediction, RMB 196,000, Continuous Support Foundation of Shenzhen City (General Program), 2022.1-2024.12
+- Research on resource management method of ultra-low power NB-IoT based on the trajectory prediction, RMB 196,000, Continuous Support Foundation of Shenzhen City (General Program), 2022.10-2025.9
 - Development of edge gateway for 5G ultra-high speed and large connection scenarios, RMB 800,000, Self-made Scientific Instruments and Equipment Project of Shenzhen Technology University, 2021.3-2023.2
 - Construction of network security practice base with national secret algorithm, RMB 500,000, Collaborative Education Project of Industry University Cooperation of the Ministry of Education, P.R. China, 2021.9-2022.8
-- 5G IoT communication and industry application school enterprise joint laboratory, RMB 936,000, School Enterprise Cooperation Talent Training Project of Shenzhen Technology University with China Mobile Communications Corporation, 2021.1-2023.12
+- 5G IoT communication and industry application school enterprise joint laboratory, RMB 936,000, School Enterprise Cooperation Talent Training, 2021.1-2023.12
 - Research on data transmission method of 6G IoT WAN based on the device fingerprint, RMB 1000,000, Scientific research capacity improvement project of key construction disciplines in Guangdong Province, 2022.1-2024.12
 - Research on the integration of satellite and terrestrial networking and its intelligent edge computing terminal, RMB 1000,000, School-Enterprise Cooperation Project, 2022.2-2025.1
 - Research on modeling method of multi type user mobile behavior in dense network, RMB 50,000, Young Innovative Talents Project of Colleges and Universities in Guangdong Province, 2019.6-2021.5
