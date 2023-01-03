@@ -61,7 +61,7 @@ Conference Papers
 - Tang, C., Zhu, C., Wu H., <b>Ning, L</b>, & Rodrigues, J. (2022). Toward Failure-Aware Energy-Efficient Service Provisioning in Vehicular Fog Computing. 2022 IEEE Global Communications Conference (GLOBECOM), 2022, pp. 01-06.
 
 #### Book Titles
-- <b>Ning, L</b>, Pan, J. (Ed.): Practice of 5G Internet of Things: from the End to Cloud, People's Posts and Telecommunication Press, in press (ISBN: 978-7-115-58840-1)
+- <b>Ning, L</b>, Pan, J. (Ed.): Practice of 5G Internet of Things: from the End to Cloud, People's Posts and Telecommunication Press, 2022.12 (ISBN: 978-7-115-58840-1)
 
 ### Selected Recent Intellectual Property
 - Patent, First inventor, Traffic flow feature extraction method and system, 2021.08.12(Grant Date), China National Intellectual Property Administration, ZL202010805829.4
